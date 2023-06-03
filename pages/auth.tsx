@@ -58,7 +58,7 @@ function Auth() {
         <div className="relative h-auto w-full bg-[url('/images/hero-2.jpg')] bg-cover">
             <div className="bg-black w-full h-[90%] lg:bg-opacity-50 pb-56">
                 <nav className="px-12 py-5">
-                    <a href="https://www.netflix.com" target="_blank">
+                    <a href="https://www.netflix.com" target="_blank" rel="noreferrer">
                         <img
                             src="/images/logo.png"
                             alt="logo"
